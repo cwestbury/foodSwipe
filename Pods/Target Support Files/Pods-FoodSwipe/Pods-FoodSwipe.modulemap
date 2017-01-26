@@ -1,0 +1,6 @@
+framework module Pods_FoodSwipe {
+  umbrella header "Pods-FoodSwipe-umbrella.h"
+
+  export *
+  module * { export * }
+}
