@@ -34,5 +34,7 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>We need to track your location to send it to the CIA, but most of you aren&apos;t important enough to be tracked so ❄️Chill ❄️</string>
 </dict>
 </plist>
